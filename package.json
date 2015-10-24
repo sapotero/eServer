@@ -1,0 +1,18 @@
+{
+  "name": "eServer",
+  "version": "0.0.1",
+  "description": "eServer - MMF framework designed for hiload applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sapotero/eServer.git"
+  },
+  "author": "Sapozhnikov Egor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sapotero/eServer/issues"
+  }
+}
